@@ -1,8 +1,10 @@
 # Sentimo: WhatsApp Sentiment Analysis Tool
 
-**Sentimo** is an AI-powered tool designed for **sentiment analysis of WhatsApp group chats**. It uses Natural Language Processing (NLP) techniques and transformer-based models to analyze chat messages and classify their sentiment as positive, negative, or neutral.
+## 🧾 Abstract
 
-Built with Python, Hugging Face Transformers, and Streamlit, this project simplifies the process of analyzing informal text data from WhatsApp exports.
+This project examines WhatsApp sentiment analysis conversations for identifying emotional patterns, behavior tendencies, and communication dynamics. Using Natural Language Processing (NLP) applications and the DistilBERT transformer model, messages were categorized as negative, neutral, or positive based on contextual understanding.
+
+Message usage, user activity, emoji frequencies, and important words were examined based on TF-IDF vectorization. The output was presented using an interactive Streamlit dashboard with visualisations such as word clouds, heatmaps, and sentiment trend charts. These results provide a clearer picture of group interactions and variation in emotional response in the chat environment.
 
 ---
 
@@ -64,11 +66,11 @@ Sentimo Project/
 Due to GitHub’s 100MB file size limit, the following model files are **not included in the repository**. Please download them manually and place them in the appropriate folders:
 
 🔗 **Google Drive:**
-- [`distilbert_sentiment_model.pth`](https://drive.google.com/your-google-drive-link-here) → place in `Model Training/`
-- [`pytorch_model.bin`](https://drive.google.com/your-google-drive-link-here) → place in `WA Analyzer/distilbert-sentiment-model/`
+- [`distilbert_sentiment_model.pth`](#) → place in `Model Training/`
+- [`pytorch_model.bin`](#) → place in `WA Analyzer/distilbert-sentiment-model/`
 
 🔗 **Hugging Face (Optional Mirror):**
-- [`Sentimo Model on Hugging Face`](https://huggingface.co/your-huggingface-link-here)
+- [`Sentimo Model on Hugging Face`](#)
 
 > ⚠️ These files are required for local execution of the sentiment predictor.
 
@@ -78,10 +80,9 @@ Due to GitHub’s 100MB file size limit, the following model files are **not inc
 
 This project has been officially published in a peer-reviewed journal.
 
-> 📘 **Paper Title:** *Sentimo: A Tool for Sentiment Analysis on WhatsApp Chat Data Using Transformer Models*  
-> 🏛 **Published In:** [IJCRT – International Journal of Creative Research Thoughts](https://www.ijcrt.org/papers/your-paper-link-here)  
+> 📘 **Paper Title:** *Sentimo: WhatsApp Sentiment Analysis Tools*
 > 📅 **Year:** 2025  
-> 🔗 [Read Full Paper (PDF)](https://www.ijcrt.org/papers/your-paper-link-here)
+> 🔗 [Read Full Paper (PDF)]([https://www.ijcrt.org/papers/your-paper-link-here](https://drive.google.com/file/d/1s_hjQ2B6tSVAoQb0KWff67Yz8rO7lFW7/view?usp=sharing))
 
 ---
 
@@ -113,7 +114,7 @@ This project has been officially published in a peer-reviewed journal.
 
 | Name            | GitHub Profile                                      | LinkedIn Profile                                 |
 |------------------|-----------------------------------------------------|--------------------------------------------------|
-| Harsh Tripathi   | [@harshtripathi](##) | [Harsh on LinkedIn](##) |
+| Harsh Tripathi   | [@harshtripathi](##) | [Harsh on LinkedIn]([##](https://www.linkedin.com/in/harsh-x-tripathi)) |
 
 ---
 
