@@ -8,6 +8,17 @@ Message usage, user activity, emoji frequencies, and important words were examin
 
 ---
 
+## 📊 Jupyter Notebook Visualizations
+
+The file `Sentiment Analysis.ipynb` contains the complete exploratory data analysis and visualization pipeline. It was used to generate insights from the chat data, including:
+
+- Word clouds
+- Emoji frequency analysis
+- Sentiment trend charts
+- TF-IDF–based keyword extraction
+
+This notebook played a key role in developing and refining the visual outputs later integrated into the Streamlit dashboard.
+
 ## 🚀 Features
 
 - ✅ Automatically parses WhatsApp chat `.txt` exports  
