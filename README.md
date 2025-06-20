@@ -77,11 +77,8 @@ Sentimo Project/
 Due to GitHub’s 100MB file size limit, the following model files are **not included in the repository**. Please download them manually and place them in the appropriate folders:
 
 🔗 **Google Drive:**
-- [`distilbert_sentiment_model.pth`](#) → place in `Model Training/`
-- [`pytorch_model.bin`](#) → place in `WA Analyzer/distilbert-sentiment-model/`
-
-🔗 **Hugging Face (Optional Mirror):**
-- [`Sentimo Model on Hugging Face`](#)
+- [`distilbert_sentiment_model.pth`](https://drive.google.com/file/d/1D_Wa5HOKNbQj-UgbNaVMhFgpcFg8Pvbd/view?usp=sharing) → place in `Model Training/`
+- [`pytorch_model.bin`](https://drive.google.com/file/d/1K7d-A5xqs4G_t5DmJnfo0DHO7HmfAhhV/view?usp=sharing) → place in `WA Analyzer/distilbert-sentiment-model/`
 
 > ⚠️ These files are required for local execution of the sentiment predictor.
 
@@ -93,7 +90,7 @@ This project has been officially published in a peer-reviewed journal.
 
 > 📘 **Paper Title:** *Sentimo: WhatsApp Sentiment Analysis Tools*
 > 📅 **Year:** 2025  
-> 🔗 [Read Full Paper (PDF)]([https://www.ijcrt.org/papers/your-paper-link-here](https://drive.google.com/file/d/1s_hjQ2B6tSVAoQb0KWff67Yz8rO7lFW7/view?usp=sharing))
+> 🔗 [Read Full Paper (PDF)]((https://drive.google.com/file/d/1s_hjQ2B6tSVAoQb0KWff67Yz8rO7lFW7/view?usp=sharing))
 
 ---
 
@@ -121,12 +118,13 @@ This project has been officially published in a peer-reviewed journal.
 
 ---
 
-## 👤 Contributor
+## 👤 Contributors
 
-| Name            | GitHub Profile                                      | LinkedIn Profile                                 |
-|------------------|-----------------------------------------------------|--------------------------------------------------|
-| Harsh Tripathi   | [@harshtripathi](##) | [Harsh on LinkedIn]([##](https://www.linkedin.com/in/harsh-x-tripathi)) |
+| Name                   | GitHub Profile                                         | LinkedIn Profile                                      |
+|------------------------|--------------------------------------------------------|-------------------------------------------------------|
+| Harsh Tripathi         | [@Harsh-x-Tripathi](https://github.com/Harsh-x-Tripathi) | [Harsh on LinkedIn](https://www.linkedin.com/in/harsh-x-tripathi) |
+| Mr. Mithlesh Kumar Yadav | *N/A*                                                 | *N/A*                                                 |
 
 ---
 
-> © 2025 Aayushman Sharma, Harsh Tripathi – All rights reserved.
+> © 2025 Aayushman Sharma, Harsh Tripathi, Mr. Mithlesh Kumar Yadav – All rights reserved.
