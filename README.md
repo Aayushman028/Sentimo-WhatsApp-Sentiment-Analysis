@@ -64,9 +64,11 @@ Sentimo Project/
 
 ## 🧠 Model Information
 
-- Model Architecture: **DistilBERT (Transformer)**
+- Model Architecture: [**DistilBERT (Transformer)**](https://huggingface.co/docs/transformers/en/model_doc/distilbert)
 - Frameworks: PyTorch, Hugging Face Transformers
-- Dataset: Twitter Sentiment Dataset (English)
+- Dataset:
+  - Twitter Sentiment Dataset (English)
+  - Custom WhatsApp chat dataset with **100,000+ messages**
 - Accuracy: **97.71%**
 - Output Labels: Positive, Negative, Neutral
 
