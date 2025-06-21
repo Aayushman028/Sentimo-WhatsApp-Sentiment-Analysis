@@ -125,7 +125,7 @@ This project has been officially published in a peer-reviewed journal.
 | Name                   | GitHub Profile                                         | LinkedIn Profile                                      |
 |------------------------|--------------------------------------------------------|-------------------------------------------------------|
 | Harsh Tripathi         | [@Harsh-x-Tripathi](https://github.com/Harsh-x-Tripathi) | [Harsh on LinkedIn](https://www.linkedin.com/in/harsh-x-tripathi) |
-| Mr. Mithlesh Kumar Yadav | *N/A*                                                 | *N/A*                                                 |
+| Mr. Mithlesh Kumar Yadav | *N/A*                                                  | [Mithlesh on LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) |
 
 ---
 
